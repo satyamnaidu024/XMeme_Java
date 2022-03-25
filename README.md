@@ -10,4 +10,4 @@ To run the repository -
 From the repository root, 
 
 1. run `./gradlew bootRun`run the the project on port 8081.
-2. run `./gradlew bootjar` to create executable jar. The jar will be located inside build directories.
+2. run `./gradlew bootJar` to create executable jar. The jar will be located inside build directories.
