@@ -5,7 +5,7 @@
   3. To check the endpoints exposed , you can do it using Swagger UI by running - http://localhost:<YOUR_PORT>/swagger-ui/index.html. //
          eg - http://localhost:8081/swagger-ui/index.html
 
-To build the repository - 
+To run the repository - 
 
 From the repository root, 
 
