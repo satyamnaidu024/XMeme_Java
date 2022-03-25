@@ -1,4 +1,6 @@
-  To run the Dockerized solution , -
+XMeme Java is a Spring Boot Backend Application which allows users to post memes to a MongoDB Database and fetches the latest 100 memes from the Database.
+
+To run the Dockerized solution , -
   
   1.Make sure you have Docker installed and running.
   2. run the command. - docker run -p<YOUR_PORT>:8081 satyamnaidu024/xmeme-docker       // eg - docker run -p8081:8081 satyamnaidu024/xmeme-docker
